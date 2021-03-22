@@ -9,3 +9,4 @@
 | 5 | Write the program to control the speed of the DC and to control the direction of the spin of DC motor | [DC Motor Control](https://github.com/devabhixda/IoT_Lab/tree/master/DC_Motor) |
 | 6 | Connect the temperature sensor and display the value of temperature  | [Read Temperature](https://github.com/devabhixda/IoT_Lab/tree/master/Temperature) |
 | 7 | Write a program to Turn ON the inbuilt LED when a motion is detected by the PIR | [Read PIR](https://github.com/devabhixda/IoT_Lab/tree/master/Pir) |
+| 8 | Detect the object using UltraSonic Sensor, when an object is detected in a certain area, the Piezo alarm should ring | [UltraSonic](https://github.com/devabhixda/IoT_Lab/tree/master/UltraSonic) |
