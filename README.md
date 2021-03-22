@@ -10,3 +10,4 @@
 | 6 | Connect the temperature sensor and display the value of temperature  | [Read Temperature](https://github.com/devabhixda/IoT_Lab/tree/master/Temperature) |
 | 7 | Write a program to Turn ON the inbuilt LED when a motion is detected by the PIR | [Read PIR](https://github.com/devabhixda/IoT_Lab/tree/master/Pir) |
 | 8 | Detect the object using UltraSonic Sensor, when an object is detected in a certain area, the Piezo alarm should ring | [UltraSonic](https://github.com/devabhixda/IoT_Lab/tree/master/UltraSonic) |
+| 9 | ON the buzzer when the temperature increases by a certain threshold | [Temperature Buzzer](https://github.com/devabhixda/IoT_Lab/tree/master/TempBuzz) |
