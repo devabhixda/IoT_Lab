@@ -15,4 +15,4 @@
 | 11 | Connect the ESP32 board with the Wi-Fi network | [WiFi](https://github.com/devabhixda/IoT_Lab/tree/master/WiFi) |
 | 12 | LED On and OFF using the Blynk app | [Blynk LED](https://github.com/devabhixda/IoT_Lab/tree/master/WiFi_Blynk) |
 | 13 | Send the readings of temperature sensor to the ThingSpeak and display graph. | [Temperature Thingspeak](https://github.com/devabhixda/IoT_Lab/tree/master/Temp_thingspeak) |
-| 14 | Transfer the value of the LDR to the cloud if the value of the LDR is crossed to a certain threshold then ON the LED using the Blynk app | [LDR, LED, Blynk] (https://github.com/devabhixda/IoT_Lab/tree/master/Node_Ldr) |
+| 14 | LDR to the cloud if crossed to a certain threshold then ON the LED| [LDR, LED, Blynk](https://github.com/devabhixda/IoT_Lab/tree/master/Node_Ldr) |
